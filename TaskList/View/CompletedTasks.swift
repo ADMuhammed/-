@@ -225,7 +225,7 @@ struct TaskDetailView: View {
         .padding()
         .navigationBarTitle("Task details", displayMode: .inline)
     }
-    
+    //
     var dateFormatter: DateFormatter {
         let formatter = DateFormatter()
         formatter.dateStyle = .medium

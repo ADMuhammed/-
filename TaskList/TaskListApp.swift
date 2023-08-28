@@ -16,6 +16,6 @@ struct TaskListApp: App {
             ContentView()
                 .environment(\.managedObjectContext, persistenceContainer.container.viewContext)
         }
-    }
+    }//
 }
 

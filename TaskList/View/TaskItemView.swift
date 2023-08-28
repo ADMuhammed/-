@@ -31,7 +31,7 @@ struct TaskItemView: View {
         .animation(.spring())
         .onHover { hover in
             onHover = hover
-        }
+        }//
     }
 }
 

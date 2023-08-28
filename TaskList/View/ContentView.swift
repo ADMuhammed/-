@@ -60,7 +60,7 @@ struct ContentView: View {
                 Button(action: {
                     //
                 }) {
-                    Text("Support")
+                    Text("Sup")
                         .foregroundColor(.blue)
                 },
                 trailing:
@@ -81,4 +81,4 @@ struct ContentView_Previews: PreviewProvider {
     }
 }
 
-
+//slss
